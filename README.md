@@ -2,7 +2,7 @@
 Prototipo aplicacion web ONYX
 
 Rutas Para admin:
- - /adminDashboard.html
- - /adminWorkouts.html
- - /adminDietas.html
- - /adminUsers.html
+ - /html/adminDashboard.html
+ - /html/adminWorkouts.html
+ - /html/adminDietas.html
+ - /html/adminUsers.html
